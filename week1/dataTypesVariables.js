@@ -113,28 +113,28 @@ const myAnswerForExercise16 = "NaN";
 
 
 // Exercise 17 What is the value of true || false
-const myAnswerForExercise17 = "true";
+const myAnswerForExercise17 = true;
 
 
 // Exercise 18 What is the value of 1 === "1"
-const myAnswerForExercise18 = "false";
+const myAnswerForExercise18 = false;
 
 // Exercise 19 What is the value of 1 == "1"
 
-const myAnswerForExercise19 = "true";
+const myAnswerForExercise19 = true;
 
 
 // Exercise 20 What is the value of 1 < 1
-const myAnswerForExercise20 = "false";
+const myAnswerForExercise20 = false;
 
 
 // Exercise 21 What is the value of 1 < 2 < 3
-const myAnswerForExercise21 = "true";
+const myAnswerForExercise21 = true;
 
 
 // Exercise 22 What is the value of 2 < 1 < 3
-const myAnswerForExercise22 = "true";
-
+const myAnswerForExercise22 = 2 < 1 < 3 ;
+console.log(myAnswerForExercise22)
 
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
