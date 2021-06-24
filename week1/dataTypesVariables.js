@@ -108,7 +108,7 @@ const myAnswerForExercise15 = "R2D2";
 
 
 // Exercise 16 What is the value of A * B
-const myAnswerForExercise16 = "NaN";
+const myAnswerForExercise16 = NaN;
 
 
 
@@ -133,8 +133,8 @@ const myAnswerForExercise21 = true;
 
 
 // Exercise 22 What is the value of 2 < 1 < 3
-const myAnswerForExercise22 = 2 < 1 < 3 ;
-console.log(myAnswerForExercise22)
+const myAnswerForExercise22 = true;
+
 
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
